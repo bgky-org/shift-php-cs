@@ -9,7 +9,7 @@ You can find the **original and official** source of the ruleset in [this gist](
 You can install the ruleset via composer using the following command:
 
 ```sh
-composer require --dev eduarguz/shift-php-cs
+composer require --dev bgky-org/shift-php-cs
 ```
 
 This package will also require the `friendsofphp/php-cs-fixer` package.

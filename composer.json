@@ -1,16 +1,9 @@
 {
-    "name": "eduarguz/shift-php-cs",
+    "name": "bgky-org/shift-php-cs",
     "description": "PHP CS Fixer - Laravel Coding Style Ruleset",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/eduarguz/shift-php-cs",
-    "authors": [
-        {
-            "name": "Eduardo Guzmán Hernández",
-            "email": "eduarguzher@gmail.com",
-            "homepage": "https://eduarguz.github.io/eduardogh/"
-        }
-    ],
+    "homepage": "https://github.com/bgky-org/shift-php-cs",
     "require": {
         "php": "^7.0",
         "friendsofphp/php-cs-fixer": "^2.0"

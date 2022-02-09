@@ -6,7 +6,7 @@
     "homepage": "https://github.com/bgky-org/shift-php-cs",
     "require": {
         "php": "^7.3|^8.0",
-        "friendsofphp/php-cs-fixer": "^2.0"
+        "friendsofphp/php-cs-fixer": "^3.0"
     },
     "autoload": {
         "files": [
